@@ -1,0 +1,366 @@
+,Date,Phase,Team_home,Team_home_short,Team_visitor,Team_visitor_short,World_Cup,Team_home_penalties_score,Team_visitor_penalties_score,Team_home_score,Team_visitor_score,Result,Result_with_penalties
+0,2014-06-12,Group A,Brazil,BRA,Croatia,CRO,Brazil-2014,0,0,3,1,Win,Win
+1,2014-06-13,Group A,Mexico,MEX,Cameroon,CMR,Brazil-2014,0,0,1,0,Win,Win
+2,2014-06-13,Group B,Spain,ESP,Netherlands,NED,Brazil-2014,0,0,1,5,Loss,Loss
+3,2014-06-13,Group B,Chile,CHI,Australia,AUS,Brazil-2014,0,0,3,1,Win,Win
+4,2014-06-14,Group C,Colombia,COL,Greece,GRE,Brazil-2014,0,0,3,0,Win,Win
+5,2014-06-14,Group D,Uruguay,URU,Costa Rica,CRC,Brazil-2014,0,0,1,3,Loss,Loss
+6,2014-06-14,Group D,England,ENG,Italy,ITA,Brazil-2014,0,0,1,2,Loss,Loss
+7,2014-06-14,Group C,Côte d'Ivoire,CIV,Japan,JPN,Brazil-2014,0,0,2,1,Win,Win
+8,2014-06-15,Group E,Switzerland,SUI,Ecuador,ECU,Brazil-2014,0,0,2,1,Win,Win
+9,2014-06-15,Group E,France,FRA,Honduras,HON,Brazil-2014,0,0,3,0,Win,Win
+10,2014-06-15,Group F,Argentina,ARG,Bosnia and Herzegovina,BIH,Brazil-2014,0,0,2,1,Win,Win
+11,2014-06-16,Group G,Germany,GER,Portugal,POR,Brazil-2014,0,0,4,0,Win,Win
+12,2014-06-16,Group F,IR Iran,IRN,Nigeria,NGA,Brazil-2014,0,0,0,0,Draw,Draw
+13,2014-06-16,Group G,Ghana,GHA,USA,USA,Brazil-2014,0,0,1,2,Loss,Loss
+14,2014-06-17,Group H,Belgium,BEL,Algeria,ALG,Brazil-2014,0,0,2,1,Win,Win
+15,2014-06-17,Group A,Brazil,BRA,Mexico,MEX,Brazil-2014,0,0,0,0,Draw,Draw
+16,2014-06-17,Group H,Russia,RUS,Korea Republic,KOR,Brazil-2014,0,0,1,1,Draw,Draw
+17,2014-06-18,Group B,Australia,AUS,Netherlands,NED,Brazil-2014,0,0,2,3,Loss,Loss
+18,2014-06-18,Group B,Spain,ESP,Chile,CHI,Brazil-2014,0,0,0,2,Loss,Loss
+19,2014-06-18,Group A,Cameroon,CMR,Croatia,CRO,Brazil-2014,0,0,0,4,Loss,Loss
+20,2014-06-19,Group C,Colombia,COL,Côte d'Ivoire,CIV,Brazil-2014,0,0,2,1,Win,Win
+21,2014-06-19,Group D,Uruguay,URU,England,ENG,Brazil-2014,0,0,2,1,Win,Win
+22,2014-06-19,Group C,Japan,JPN,Greece,GRE,Brazil-2014,0,0,0,0,Draw,Draw
+23,2014-06-20,Group D,Italy,ITA,Costa Rica,CRC,Brazil-2014,0,0,0,1,Loss,Loss
+24,2014-06-20,Group E,Switzerland,SUI,France,FRA,Brazil-2014,0,0,2,5,Loss,Loss
+25,2014-06-20,Group E,Honduras,HON,Ecuador,ECU,Brazil-2014,0,0,1,2,Loss,Loss
+26,2014-06-21,Group F,Argentina,ARG,IR Iran,IRN,Brazil-2014,0,0,1,0,Win,Win
+27,2014-06-21,Group G,Germany,GER,Ghana,GHA,Brazil-2014,0,0,2,2,Draw,Draw
+28,2014-06-21,Group F,Nigeria,NGA,Bosnia and Herzegovina,BIH,Brazil-2014,0,0,1,0,Win,Win
+29,2014-06-22,Group H,Belgium,BEL,Russia,RUS,Brazil-2014,0,0,1,0,Win,Win
+30,2014-06-22,Group H,Korea Republic,KOR,Algeria,ALG,Brazil-2014,0,0,2,4,Loss,Loss
+31,2014-06-22,Group G,USA,USA,Portugal,POR,Brazil-2014,0,0,2,2,Draw,Draw
+32,2014-06-23,Group B,Australia,AUS,Spain,ESP,Brazil-2014,0,0,0,3,Loss,Loss
+33,2014-06-23,Group B,Netherlands,NED,Chile,CHI,Brazil-2014,0,0,2,0,Win,Win
+34,2014-06-23,Group A,Cameroon,CMR,Brazil,BRA,Brazil-2014,0,0,1,4,Loss,Loss
+35,2014-06-23,Group A,Croatia,CRO,Mexico,MEX,Brazil-2014,0,0,1,3,Loss,Loss
+36,2014-06-24,Group D,Italy,ITA,Uruguay,URU,Brazil-2014,0,0,0,1,Loss,Loss
+37,2014-06-24,Group D,Costa Rica,CRC,England,ENG,Brazil-2014,0,0,0,0,Draw,Draw
+38,2014-06-24,Group C,Japan,JPN,Colombia,COL,Brazil-2014,0,0,1,4,Loss,Loss
+39,2014-06-24,Group C,Greece,GRE,Côte d'Ivoire,CIV,Brazil-2014,0,0,2,1,Win,Win
+40,2014-06-25,Group F,Nigeria,NGA,Argentina,ARG,Brazil-2014,0,0,2,3,Loss,Loss
+41,2014-06-25,Group F,Bosnia and Herzegovina,BIH,IR Iran,IRN,Brazil-2014,0,0,3,1,Win,Win
+42,2014-06-25,Group E,Honduras,HON,Switzerland,SUI,Brazil-2014,0,0,0,3,Loss,Loss
+43,2014-06-25,Group E,Ecuador,ECU,France,FRA,Brazil-2014,0,0,0,0,Draw,Draw
+44,2014-06-26,Group G,USA,USA,Germany,GER,Brazil-2014,0,0,0,1,Loss,Loss
+45,2014-06-26,Group G,Portugal,POR,Ghana,GHA,Brazil-2014,0,0,2,1,Win,Win
+46,2014-06-26,Group H,Korea Republic,KOR,Belgium,BEL,Brazil-2014,0,0,0,1,Loss,Loss
+47,2014-06-26,Group H,Algeria,ALG,Russia,RUS,Brazil-2014,0,0,1,1,Draw,Draw
+48,2014-06-28,Round of 16,Brazil,BRA,Chile,CHI,Brazil-2014,3,2,1,1,Draw,Win
+49,2014-06-28,Round of 16,Colombia,COL,Uruguay,URU,Brazil-2014,0,0,2,0,Win,Win
+50,2014-06-29,Round of 16,Netherlands,NED,Mexico,MEX,Brazil-2014,0,0,2,1,Win,Win
+51,2014-06-29,Round of 16,Costa Rica,CRC,Greece,GRE,Brazil-2014,5,3,1,1,Draw,Win
+52,2014-06-30,Round of 16,France,FRA,Nigeria,NGA,Brazil-2014,0,0,2,0,Win,Win
+53,2014-06-30,Round of 16,Germany,GER,Algeria,ALG,Brazil-2014,0,0,2,1,Win,Win
+54,2014-07-01,Round of 16,Argentina,ARG,Switzerland,SUI,Brazil-2014,0,0,1,0,Win,Win
+55,2014-07-01,Round of 16,Belgium,BEL,USA,USA,Brazil-2014,0,0,2,1,Win,Win
+56,2014-07-04,Quarter-finals,France,FRA,Germany,GER,Brazil-2014,0,0,0,1,Loss,Loss
+57,2014-07-04,Quarter-finals,Brazil,BRA,Colombia,COL,Brazil-2014,0,0,2,1,Win,Win
+58,2014-07-05,Quarter-finals,Argentina,ARG,Belgium,BEL,Brazil-2014,0,0,1,0,Win,Win
+59,2014-07-05,Quarter-finals,Netherlands,NED,Costa Rica,CRC,Brazil-2014,4,3,0,0,Draw,Win
+60,2014-07-08,Semi-finals,Brazil,BRA,Germany,GER,Brazil-2014,0,0,1,7,Loss,Loss
+61,2014-07-09,Semi-finals,Netherlands,NED,Argentina,ARG,Brazil-2014,2,4,0,0,Draw,Loss
+62,2014-07-12,Play-off for third place,Brazil,BRA,Netherlands,NED,Brazil-2014,0,0,0,3,Loss,Loss
+63,2014-07-13,Final,Germany,GER,Argentina,ARG,Brazil-2014,0,0,1,0,Win,Win
+64,2010-06-11,Group A,South Africa,RSA,Mexico,MEX,SouthAfrica-2010,0,0,1,1,Draw,Draw
+65,2010-06-11,Group A,Uruguay,URU,France,FRA,SouthAfrica-2010,0,0,0,0,Draw,Draw
+66,2010-06-12,Group B,Korea Republic,KOR,Greece,GRE,SouthAfrica-2010,0,0,2,0,Win,Win
+67,2010-06-12,Group B,Argentina,ARG,Nigeria,NGA,SouthAfrica-2010,0,0,1,0,Win,Win
+68,2010-06-12,Group C,England,ENG,USA,USA,SouthAfrica-2010,0,0,1,1,Draw,Draw
+69,2010-06-13,Group C,Algeria,ALG,Slovenia,SVN,SouthAfrica-2010,0,0,0,1,Loss,Loss
+70,2010-06-13,Group D,Serbia,SRB,Ghana,GHA,SouthAfrica-2010,0,0,0,1,Loss,Loss
+71,2010-06-13,Group D,Germany,GER,Australia,AUS,SouthAfrica-2010,0,0,4,0,Win,Win
+72,2010-06-14,Group E,Netherlands,NED,Denmark,DEN,SouthAfrica-2010,0,0,2,0,Win,Win
+73,2010-06-14,Group E,Japan,JPN,Cameroon,CMR,SouthAfrica-2010,0,0,1,0,Win,Win
+74,2010-06-14,Group F,Italy,ITA,Paraguay,PAR,SouthAfrica-2010,0,0,1,1,Draw,Draw
+75,2010-06-15,Group F,New Zealand,NZL,Slovakia,SVK,SouthAfrica-2010,0,0,1,1,Draw,Draw
+76,2010-06-15,Group G,Côte d'Ivoire,CIV,Portugal,POR,SouthAfrica-2010,0,0,0,0,Draw,Draw
+77,2010-06-15,Group G,Brazil,BRA,Korea DPR,PRK,SouthAfrica-2010,0,0,2,1,Win,Win
+78,2010-06-16,Group H,Honduras,HON,Chile,CHI,SouthAfrica-2010,0,0,0,1,Loss,Loss
+79,2010-06-16,Group H,Spain,ESP,Switzerland,SUI,SouthAfrica-2010,0,0,0,1,Loss,Loss
+80,2010-06-16,Group A,South Africa,RSA,Uruguay,URU,SouthAfrica-2010,0,0,0,3,Loss,Loss
+81,2010-06-17,Group B,Argentina,ARG,Korea Republic,KOR,SouthAfrica-2010,0,0,4,1,Win,Win
+82,2010-06-17,Group B,Greece,GRE,Nigeria,NGA,SouthAfrica-2010,0,0,2,1,Win,Win
+83,2010-06-17,Group A,France,FRA,Mexico,MEX,SouthAfrica-2010,0,0,0,2,Loss,Loss
+84,2010-06-18,Group D,Germany,GER,Serbia,SRB,SouthAfrica-2010,0,0,0,1,Loss,Loss
+85,2010-06-18,Group C,Slovenia,SVN,USA,USA,SouthAfrica-2010,0,0,2,2,Draw,Draw
+86,2010-06-18,Group C,England,ENG,Algeria,ALG,SouthAfrica-2010,0,0,0,0,Draw,Draw
+87,2010-06-19,Group E,Netherlands,NED,Japan,JPN,SouthAfrica-2010,0,0,1,0,Win,Win
+88,2010-06-19,Group D,Ghana,GHA,Australia,AUS,SouthAfrica-2010,0,0,1,1,Draw,Draw
+89,2010-06-19,Group E,Cameroon,CMR,Denmark,DEN,SouthAfrica-2010,0,0,1,2,Loss,Loss
+90,2010-06-20,Group F,Slovakia,SVK,Paraguay,PAR,SouthAfrica-2010,0,0,0,2,Loss,Loss
+91,2010-06-20,Group F,Italy,ITA,New Zealand,NZL,SouthAfrica-2010,0,0,1,1,Draw,Draw
+92,2010-06-20,Group G,Brazil,BRA,Côte d'Ivoire,CIV,SouthAfrica-2010,0,0,3,1,Win,Win
+93,2010-06-21,Group G,Portugal,POR,Korea DPR,PRK,SouthAfrica-2010,0,0,7,0,Win,Win
+94,2010-06-21,Group H,Chile,CHI,Switzerland,SUI,SouthAfrica-2010,0,0,1,0,Win,Win
+95,2010-06-21,Group H,Spain,ESP,Honduras,HON,SouthAfrica-2010,0,0,2,0,Win,Win
+96,2010-06-22,Group A,Mexico,MEX,Uruguay,URU,SouthAfrica-2010,0,0,0,1,Loss,Loss
+97,2010-06-22,Group A,France,FRA,South Africa,RSA,SouthAfrica-2010,0,0,1,2,Loss,Loss
+98,2010-06-22,Group B,Nigeria,NGA,Korea Republic,KOR,SouthAfrica-2010,0,0,2,2,Draw,Draw
+99,2010-06-22,Group B,Greece,GRE,Argentina,ARG,SouthAfrica-2010,0,0,0,2,Loss,Loss
+100,2010-06-23,Group C,Slovenia,SVN,England,ENG,SouthAfrica-2010,0,0,0,1,Loss,Loss
+101,2010-06-23,Group C,USA,USA,Algeria,ALG,SouthAfrica-2010,0,0,1,0,Win,Win
+102,2010-06-23,Group D,Ghana,GHA,Germany,GER,SouthAfrica-2010,0,0,0,1,Loss,Loss
+103,2010-06-23,Group D,Australia,AUS,Serbia,SRB,SouthAfrica-2010,0,0,2,1,Win,Win
+104,2010-06-24,Group F,Slovakia,SVK,Italy,ITA,SouthAfrica-2010,0,0,3,2,Win,Win
+105,2010-06-24,Group F,Paraguay,PAR,New Zealand,NZL,SouthAfrica-2010,0,0,0,0,Draw,Draw
+106,2010-06-24,Group E,Denmark,DEN,Japan,JPN,SouthAfrica-2010,0,0,1,3,Loss,Loss
+107,2010-06-24,Group E,Cameroon,CMR,Netherlands,NED,SouthAfrica-2010,0,0,1,2,Loss,Loss
+108,2010-06-25,Group G,Portugal,POR,Brazil,BRA,SouthAfrica-2010,0,0,0,0,Draw,Draw
+109,2010-06-25,Group G,Korea DPR,PRK,Côte d'Ivoire,CIV,SouthAfrica-2010,0,0,0,3,Loss,Loss
+110,2010-06-25,Group H,Chile,CHI,Spain,ESP,SouthAfrica-2010,0,0,1,2,Loss,Loss
+111,2010-06-25,Group H,Switzerland,SUI,Honduras,HON,SouthAfrica-2010,0,0,0,0,Draw,Draw
+112,2010-06-26,Round of 16,Uruguay,URU,Korea Republic,KOR,SouthAfrica-2010,0,0,2,1,Win,Win
+113,2010-06-26,Round of 16,USA,USA,Ghana,GHA,SouthAfrica-2010,0,0,1,2,Loss,Loss
+114,2010-06-27,Round of 16,Germany,GER,England,ENG,SouthAfrica-2010,0,0,4,1,Win,Win
+115,2010-06-27,Round of 16,Argentina,ARG,Mexico,MEX,SouthAfrica-2010,0,0,3,1,Win,Win
+116,2010-06-28,Round of 16,Netherlands,NED,Slovakia,SVK,SouthAfrica-2010,0,0,2,1,Win,Win
+117,2010-06-28,Round of 16,Brazil,BRA,Chile,CHI,SouthAfrica-2010,0,0,3,0,Win,Win
+118,2010-06-29,Round of 16,Paraguay,PAR,Japan,JPN,SouthAfrica-2010,5,3,0,0,Draw,Win
+119,2010-06-29,Round of 16,Spain,ESP,Portugal,POR,SouthAfrica-2010,0,0,1,0,Win,Win
+120,2010-07-02,Quarter-finals,Netherlands,NED,Brazil,BRA,SouthAfrica-2010,0,0,2,1,Win,Win
+121,2010-07-02,Quarter-finals,Uruguay,URU,Ghana,GHA,SouthAfrica-2010,4,2,1,1,Draw,Win
+122,2010-07-03,Quarter-finals,Argentina,ARG,Germany,GER,SouthAfrica-2010,0,0,0,4,Loss,Loss
+123,2010-07-03,Quarter-finals,Paraguay,PAR,Spain,ESP,SouthAfrica-2010,0,0,0,1,Loss,Loss
+124,2010-07-06,Semi-finals,Uruguay,URU,Netherlands,NED,SouthAfrica-2010,0,0,2,3,Loss,Loss
+125,2010-07-07,Semi-finals,Germany,GER,Spain,ESP,SouthAfrica-2010,0,0,0,1,Loss,Loss
+126,2010-07-10,Match for third place,Uruguay,URU,Germany,GER,SouthAfrica-2010,0,0,2,3,Loss,Loss
+127,2010-07-11,Final,Netherlands,NED,Spain,ESP,SouthAfrica-2010,0,0,0,1,Loss,Loss
+128,2006-06-09,Group A,Germany,GER,Costa Rica,CRC,Germany-2006,0,0,4,2,Win,Win
+129,2006-06-09,Group A,Poland,POL,Ecuador,ECU,Germany-2006,0,0,0,2,Loss,Loss
+130,2006-06-10,Group B,England,ENG,Paraguay,PAR,Germany-2006,0,0,1,0,Win,Win
+131,2006-06-10,Group B,Trinidad and Tobago,TRI,Sweden,SWE,Germany-2006,0,0,0,0,Draw,Draw
+132,2006-06-10,Group C,Argentina,ARG,Côte d'Ivoire,CIV,Germany-2006,0,0,2,1,Win,Win
+133,2006-06-11,Group D,Mexico,MEX,IR Iran,IRN,Germany-2006,0,0,3,1,Win,Win
+134,2006-06-11,Group D,Angola,ANG,Portugal,POR,Germany-2006,0,0,0,1,Loss,Loss
+135,2006-06-12,Group F,Australia,AUS,Japan,JPN,Germany-2006,0,0,3,1,Win,Win
+136,2006-06-12,Group E,USA,USA,Czech Republic,CZE,Germany-2006,0,0,0,3,Loss,Loss
+137,2006-06-12,Group E,Italy,ITA,Ghana,GHA,Germany-2006,0,0,2,0,Win,Win
+138,2006-06-13,Group G,Korea Republic,KOR,Togo,TOG,Germany-2006,0,0,2,1,Win,Win
+139,2006-06-13,Group G,France,FRA,Switzerland,SUI,Germany-2006,0,0,0,0,Draw,Draw
+140,2006-06-13,Group F,Brazil,BRA,Croatia,CRO,Germany-2006,0,0,1,0,Win,Win
+141,2006-06-14,Group H,Spain,ESP,Ukraine,UKR,Germany-2006,0,0,4,0,Win,Win
+142,2006-06-14,Group H,Tunisia,TUN,Saudi Arabia,KSA,Germany-2006,0,0,2,2,Draw,Draw
+143,2006-06-14,Group A,Germany,GER,Poland,POL,Germany-2006,0,0,1,0,Win,Win
+144,2006-06-15,Group A,Ecuador,ECU,Costa Rica,CRC,Germany-2006,0,0,3,0,Win,Win
+145,2006-06-15,Group B,England,ENG,Trinidad and Tobago,TRI,Germany-2006,0,0,2,0,Win,Win
+146,2006-06-15,Group B,Sweden,SWE,Paraguay,PAR,Germany-2006,0,0,1,0,Win,Win
+147,2006-06-16,Group C,Netherlands,NED,Côte d'Ivoire,CIV,Germany-2006,0,0,2,1,Win,Win
+148,2006-06-16,Group D,Mexico,MEX,Angola,ANG,Germany-2006,0,0,0,0,Draw,Draw
+149,2006-06-17,Group D,Portugal,POR,IR Iran,IRN,Germany-2006,0,0,2,0,Win,Win
+150,2006-06-17,Group E,Czech Republic,CZE,Ghana,GHA,Germany-2006,0,0,0,2,Loss,Loss
+151,2006-06-17,Group E,Italy,ITA,USA,USA,Germany-2006,0,0,1,1,Draw,Draw
+152,2006-06-18,Group F,Japan,JPN,Croatia,CRO,Germany-2006,0,0,0,0,Draw,Draw
+153,2006-06-18,Group F,Brazil,BRA,Australia,AUS,Germany-2006,0,0,2,0,Win,Win
+154,2006-06-18,Group G,France,FRA,Korea Republic,KOR,Germany-2006,0,0,1,1,Draw,Draw
+155,2006-06-19,Group G,Togo,TOG,Switzerland,SUI,Germany-2006,0,0,0,2,Loss,Loss
+156,2006-06-19,Group H,Saudi Arabia,KSA,Ukraine,UKR,Germany-2006,0,0,0,4,Loss,Loss
+157,2006-06-19,Group H,Spain,ESP,Tunisia,TUN,Germany-2006,0,0,3,1,Win,Win
+158,2006-06-20,Group A,Ecuador,ECU,Germany,GER,Germany-2006,0,0,0,3,Loss,Loss
+159,2006-06-20,Group A,Costa Rica,CRC,Poland,POL,Germany-2006,0,0,1,2,Loss,Loss
+160,2006-06-20,Group B,Sweden,SWE,England,ENG,Germany-2006,0,0,2,2,Draw,Draw
+161,2006-06-20,Group B,Paraguay,PAR,Trinidad and Tobago,TRI,Germany-2006,0,0,2,0,Win,Win
+162,2006-06-21,Group D,IR Iran,IRN,Angola,ANG,Germany-2006,0,0,1,1,Draw,Draw
+163,2006-06-21,Group D,Portugal,POR,Mexico,MEX,Germany-2006,0,0,2,1,Win,Win
+164,2006-06-21,Group C,Netherlands,NED,Argentina,ARG,Germany-2006,0,0,0,0,Draw,Draw
+165,2006-06-22,Group E,Czech Republic,CZE,Italy,ITA,Germany-2006,0,0,0,2,Loss,Loss
+166,2006-06-22,Group E,Ghana,GHA,USA,USA,Germany-2006,0,0,2,1,Win,Win
+167,2006-06-22,Group F,Japan,JPN,Brazil,BRA,Germany-2006,0,0,1,4,Loss,Loss
+168,2006-06-22,Group F,Croatia,CRO,Australia,AUS,Germany-2006,0,0,2,2,Draw,Draw
+169,2006-06-23,Group H,Ukraine,UKR,Tunisia,TUN,Germany-2006,0,0,1,0,Win,Win
+170,2006-06-23,Group H,Saudi Arabia,KSA,Spain,ESP,Germany-2006,0,0,0,1,Loss,Loss
+171,2006-06-23,Group G,Togo,TOG,France,FRA,Germany-2006,0,0,0,2,Loss,Loss
+172,2006-06-23,Group G,Switzerland,SUI,Korea Republic,KOR,Germany-2006,0,0,2,0,Win,Win
+173,2006-06-24,Round of 16,Germany,GER,Sweden,SWE,Germany-2006,0,0,2,0,Win,Win
+174,2006-06-24,Round of 16,Argentina,ARG,Mexico,MEX,Germany-2006,0,0,2,1,Win,Win
+175,2006-06-25,Round of 16,England,ENG,Ecuador,ECU,Germany-2006,0,0,1,0,Win,Win
+176,2006-06-25,Round of 16,Portugal,POR,Netherlands,NED,Germany-2006,0,0,1,0,Win,Win
+177,2006-06-26,Round of 16,Italy,ITA,Australia,AUS,Germany-2006,0,0,1,0,Win,Win
+178,2006-06-26,Round of 16,Switzerland,SUI,Ukraine,UKR,Germany-2006,0,3,0,0,Draw,Loss
+179,2006-06-27,Round of 16,Brazil,BRA,Ghana,GHA,Germany-2006,0,0,3,0,Win,Win
+180,2006-06-27,Round of 16,Spain,ESP,France,FRA,Germany-2006,0,0,1,3,Loss,Loss
+181,2006-06-30,Quarter-finals,Germany,GER,Argentina,ARG,Germany-2006,4,2,1,1,Draw,Win
+182,2006-06-30,Quarter-finals,Italy,ITA,Ukraine,UKR,Germany-2006,0,0,3,0,Win,Win
+183,2006-07-01,Quarter-finals,England,ENG,Portugal,POR,Germany-2006,1,3,0,0,Draw,Loss
+184,2006-07-01,Quarter-finals,Brazil,BRA,France,FRA,Germany-2006,0,0,0,1,Loss,Loss
+185,2006-07-04,Semi-finals,Germany,GER,Italy,ITA,Germany-2006,0,0,0,2,Loss,Loss
+186,2006-07-05,Semi-finals,Portugal,POR,France,FRA,Germany-2006,0,0,0,1,Loss,Loss
+187,2006-07-08,Third place,Germany,GER,Portugal,POR,Germany-2006,0,0,3,1,Win,Win
+188,2006-07-09,Final,Italy,ITA,France,FRA,Germany-2006,5,3,1,1,Draw,Win
+189,2002-05-31,Group A,France,FRA,Senegal,SEN,Korea/Japan-2002,0,0,0,1,Loss,Loss
+190,2002-06-01,Group A,Uruguay,URU,Denmark,DEN,Korea/Japan-2002,0,0,1,2,Loss,Loss
+191,2002-06-01,Group E,Republic of Ireland,IRL,Cameroon,CMR,Korea/Japan-2002,0,0,1,1,Draw,Draw
+192,2002-06-01,Group E,Germany,GER,Saudi Arabia,KSA,Korea/Japan-2002,0,0,8,0,Win,Win
+193,2002-06-02,Group F,Argentina,ARG,Nigeria,NGA,Korea/Japan-2002,0,0,1,0,Win,Win
+194,2002-06-02,Group B,Paraguay,PAR,South Africa,RSA,Korea/Japan-2002,0,0,2,2,Draw,Draw
+195,2002-06-02,Group F,England,ENG,Sweden,SWE,Korea/Japan-2002,0,0,1,1,Draw,Draw
+196,2002-06-02,Group B,Spain,ESP,Slovenia,SVN,Korea/Japan-2002,0,0,3,1,Win,Win
+197,2002-06-03,Group C,Brazil,BRA,Turkey,TUR,Korea/Japan-2002,0,0,2,1,Win,Win
+198,2002-06-03,Group G,Italy,ITA,Ecuador,ECU,Korea/Japan-2002,0,0,2,0,Win,Win
+199,2002-06-03,Group G,Croatia,CRO,Mexico,MEX,Korea/Japan-2002,0,0,0,1,Loss,Loss
+200,2002-06-04,Group C,China PR,CHN,Costa Rica,CRC,Korea/Japan-2002,0,0,0,2,Loss,Loss
+201,2002-06-04,Group H,Japan,JPN,Belgium,BEL,Korea/Japan-2002,0,0,2,2,Draw,Draw
+202,2002-06-04,Group D,Korea Republic,KOR,Poland,POL,Korea/Japan-2002,0,0,2,0,Win,Win
+203,2002-06-05,Group H,Russia,RUS,Tunisia,TUN,Korea/Japan-2002,0,0,2,0,Win,Win
+204,2002-06-05,Group D,USA,USA,Portugal,POR,Korea/Japan-2002,0,0,3,2,Win,Win
+205,2002-06-05,Group E,Germany,GER,Republic of Ireland,IRL,Korea/Japan-2002,0,0,1,1,Draw,Draw
+206,2002-06-06,Group A,Denmark,DEN,Senegal,SEN,Korea/Japan-2002,0,0,1,1,Draw,Draw
+207,2002-06-06,Group E,Cameroon,CMR,Saudi Arabia,KSA,Korea/Japan-2002,0,0,1,0,Win,Win
+208,2002-06-06,Group A,France,FRA,Uruguay,URU,Korea/Japan-2002,0,0,0,0,Draw,Draw
+209,2002-06-07,Group F,Sweden,SWE,Nigeria,NGA,Korea/Japan-2002,0,0,2,1,Win,Win
+210,2002-06-07,Group F,Argentina,ARG,England,ENG,Korea/Japan-2002,0,0,0,1,Loss,Loss
+211,2002-06-07,Group B,Spain,ESP,Paraguay,PAR,Korea/Japan-2002,0,0,3,1,Win,Win
+212,2002-06-08,Group B,South Africa,RSA,Slovenia,SVN,Korea/Japan-2002,0,0,1,0,Win,Win
+213,2002-06-08,Group C,Brazil,BRA,China PR,CHN,Korea/Japan-2002,0,0,4,0,Win,Win
+214,2002-06-08,Group G,Italy,ITA,Croatia,CRO,Korea/Japan-2002,0,0,1,2,Loss,Loss
+215,2002-06-09,Group C,Costa Rica,CRC,Turkey,TUR,Korea/Japan-2002,0,0,1,1,Draw,Draw
+216,2002-06-09,Group H,Japan,JPN,Russia,RUS,Korea/Japan-2002,0,0,1,0,Win,Win
+217,2002-06-09,Group G,Mexico,MEX,Ecuador,ECU,Korea/Japan-2002,0,0,2,1,Win,Win
+218,2002-06-10,Group D,Korea Republic,KOR,USA,USA,Korea/Japan-2002,0,0,1,1,Draw,Draw
+219,2002-06-10,Group D,Portugal,POR,Poland,POL,Korea/Japan-2002,0,0,4,0,Win,Win
+220,2002-06-10,Group H,Tunisia,TUN,Belgium,BEL,Korea/Japan-2002,0,0,1,1,Draw,Draw
+221,2002-06-11,Group A,Denmark,DEN,France,FRA,Korea/Japan-2002,0,0,2,0,Win,Win
+222,2002-06-11,Group A,Senegal,SEN,Uruguay,URU,Korea/Japan-2002,0,0,3,3,Draw,Draw
+223,2002-06-11,Group E,Saudi Arabia,KSA,Republic of Ireland,IRL,Korea/Japan-2002,0,0,0,3,Loss,Loss
+224,2002-06-11,Group E,Cameroon,CMR,Germany,GER,Korea/Japan-2002,0,0,0,2,Loss,Loss
+225,2002-06-12,Group F,Sweden,SWE,Argentina,ARG,Korea/Japan-2002,0,0,1,1,Draw,Draw
+226,2002-06-12,Group F,Nigeria,NGA,England,ENG,Korea/Japan-2002,0,0,0,0,Draw,Draw
+227,2002-06-12,Group B,Slovenia,SVN,Paraguay,PAR,Korea/Japan-2002,0,0,1,3,Loss,Loss
+228,2002-06-12,Group B,South Africa,RSA,Spain,ESP,Korea/Japan-2002,0,0,2,3,Loss,Loss
+229,2002-06-13,Group C,Costa Rica,CRC,Brazil,BRA,Korea/Japan-2002,0,0,2,5,Loss,Loss
+230,2002-06-13,Group C,Turkey,TUR,China PR,CHN,Korea/Japan-2002,0,0,3,0,Win,Win
+231,2002-06-13,Group G,Ecuador,ECU,Croatia,CRO,Korea/Japan-2002,0,0,1,0,Win,Win
+232,2002-06-13,Group G,Mexico,MEX,Italy,ITA,Korea/Japan-2002,0,0,1,1,Draw,Draw
+233,2002-06-14,Group H,Tunisia,TUN,Japan,JPN,Korea/Japan-2002,0,0,0,2,Loss,Loss
+234,2002-06-14,Group D,Portugal,POR,Korea Republic,KOR,Korea/Japan-2002,0,0,0,1,Loss,Loss
+235,2002-06-14,Group D,Poland,POL,USA,USA,Korea/Japan-2002,0,0,3,1,Win,Win
+236,2002-06-14,Group H,Belgium,BEL,Russia,RUS,Korea/Japan-2002,0,0,3,2,Win,Win
+237,2002-06-15,Round of 16,Denmark,DEN,England,ENG,Korea/Japan-2002,0,0,0,3,Loss,Loss
+238,2002-06-15,Round of 16,Germany,GER,Paraguay,PAR,Korea/Japan-2002,0,0,1,0,Win,Win
+239,2002-06-16,Round of 16,Spain,ESP,Republic of Ireland,IRL,Korea/Japan-2002,3,2,1,1,Draw,Win
+240,2002-06-16,Round of 16,Sweden,SWE,Senegal,SEN,Korea/Japan-2002,0,0,1,2,Loss,Loss
+241,2002-06-17,Round of 16,Brazil,BRA,Belgium,BEL,Korea/Japan-2002,0,0,2,0,Win,Win
+242,2002-06-17,Round of 16,Mexico,MEX,USA,USA,Korea/Japan-2002,0,0,0,2,Loss,Loss
+243,2002-06-18,Round of 16,Japan,JPN,Turkey,TUR,Korea/Japan-2002,0,0,0,1,Loss,Loss
+244,2002-06-18,Round of 16,Korea Republic,KOR,Italy,ITA,Korea/Japan-2002,0,0,2,1,Win,Win
+245,2002-06-21,Quarter-finals,England,ENG,Brazil,BRA,Korea/Japan-2002,0,0,1,2,Loss,Loss
+246,2002-06-21,Quarter-finals,Germany,GER,USA,USA,Korea/Japan-2002,0,0,1,0,Win,Win
+247,2002-06-22,Quarter-finals,Senegal,SEN,Turkey,TUR,Korea/Japan-2002,0,0,0,1,Loss,Loss
+248,2002-06-22,Quarter-finals,Spain,ESP,Korea Republic,KOR,Korea/Japan-2002,3,5,0,0,Draw,Loss
+249,2002-06-25,Semi-finals,Germany,GER,Korea Republic,KOR,Korea/Japan-2002,0,0,1,0,Win,Win
+250,2002-06-26,Semi-finals,Brazil,BRA,Turkey,TUR,Korea/Japan-2002,0,0,1,0,Win,Win
+251,2002-06-29,Third place,Korea Republic,KOR,Turkey,TUR,Korea/Japan-2002,0,0,2,3,Loss,Loss
+252,2002-06-30,Final,Germany,GER,Brazil,BRA,Korea/Japan-2002,0,0,0,2,Loss,Loss
+253,1998-06-10,Group A,Brazil,BRA,Scotland,SCO,France-1998,0,0,2,1,Win,Win
+254,1998-06-10,Group A,Morocco,MAR,Norway,NOR,France-1998,0,0,2,2,Draw,Draw
+255,1998-06-11,Group B,Italy,ITA,Chile,CHI,France-1998,0,0,2,2,Draw,Draw
+256,1998-06-11,Group B,Cameroon,CMR,Austria,AUT,France-1998,0,0,1,1,Draw,Draw
+257,1998-06-12,Group D,Paraguay,PAR,Bulgaria,BUL,France-1998,0,0,0,0,Draw,Draw
+258,1998-06-12,Group C,Saudi Arabia,KSA,Denmark,DEN,France-1998,0,0,0,1,Loss,Loss
+259,1998-06-12,Group C,France,FRA,South Africa,RSA,France-1998,0,0,3,0,Win,Win
+260,1998-06-13,Group D,Spain,ESP,Nigeria,NGA,France-1998,0,0,2,3,Loss,Loss
+261,1998-06-13,Group E,Korea Republic,KOR,Mexico,MEX,France-1998,0,0,1,3,Loss,Loss
+262,1998-06-13,Group E,Netherlands,NED,Belgium,BEL,France-1998,0,0,0,0,Draw,Draw
+263,1998-06-14,Group H,Argentina,ARG,Japan,JPN,France-1998,0,0,1,0,Win,Win
+264,1998-06-14,Group H,Jamaica,JAM,Croatia,CRO,France-1998,0,0,1,3,Loss,Loss
+265,1998-06-15,Group G,England,ENG,Tunisia,TUN,France-1998,0,0,2,0,Win,Win
+266,1998-06-15,Group G,Romania,ROU,Colombia,COL,France-1998,0,0,1,0,Win,Win
+267,1998-06-15,Group F,Germany,GER,USA,USA,France-1998,0,0,2,0,Win,Win
+268,1998-06-16,Group A,Scotland,SCO,Norway,NOR,France-1998,0,0,1,1,Draw,Draw
+269,1998-06-16,Group A,Brazil,BRA,Morocco,MAR,France-1998,0,0,3,0,Win,Win
+270,1998-06-17,Group B,Chile,CHI,Austria,AUT,France-1998,0,0,1,1,Draw,Draw
+271,1998-06-17,Group B,Italy,ITA,Cameroon,CMR,France-1998,0,0,3,0,Win,Win
+272,1998-06-18,Group C,South Africa,RSA,Denmark,DEN,France-1998,0,0,1,1,Draw,Draw
+273,1998-06-18,Group C,France,FRA,Saudi Arabia,KSA,France-1998,0,0,4,0,Win,Win
+274,1998-06-19,Group D,Nigeria,NGA,Bulgaria,BUL,France-1998,0,0,1,0,Win,Win
+275,1998-06-19,Group D,Spain,ESP,Paraguay,PAR,France-1998,0,0,0,0,Draw,Draw
+276,1998-06-20,Group H,Japan,JPN,Croatia,CRO,France-1998,0,0,0,1,Loss,Loss
+277,1998-06-20,Group E,Belgium,BEL,Mexico,MEX,France-1998,0,0,2,2,Draw,Draw
+278,1998-06-20,Group E,Netherlands,NED,Korea Republic,KOR,France-1998,0,0,5,0,Win,Win
+279,1998-06-21,Group H,Argentina,ARG,Jamaica,JAM,France-1998,0,0,5,0,Win,Win
+280,1998-06-21,Group F,USA,USA,IR Iran,IRN,France-1998,0,0,1,2,Loss,Loss
+281,1998-06-22,Group G,Colombia,COL,Tunisia,TUN,France-1998,0,0,1,0,Win,Win
+282,1998-06-22,Group G,Romania,ROU,England,ENG,France-1998,0,0,2,1,Win,Win
+283,1998-06-23,Group B,Italy,ITA,Austria,AUT,France-1998,0,0,2,1,Win,Win
+284,1998-06-23,Group B,Chile,CHI,Cameroon,CMR,France-1998,0,0,1,1,Draw,Draw
+285,1998-06-23,Group A,Scotland,SCO,Morocco,MAR,France-1998,0,0,0,3,Loss,Loss
+286,1998-06-23,Group A,Brazil,BRA,Norway,NOR,France-1998,0,0,1,2,Loss,Loss
+287,1998-06-24,Group C,France,FRA,Denmark,DEN,France-1998,0,0,2,1,Win,Win
+288,1998-06-24,Group C,South Africa,RSA,Saudi Arabia,KSA,France-1998,0,0,2,2,Draw,Draw
+289,1998-06-24,Group D,Spain,ESP,Bulgaria,BUL,France-1998,0,0,6,1,Win,Win
+290,1998-06-24,Group D,Nigeria,NGA,Paraguay,PAR,France-1998,0,0,1,3,Loss,Loss
+291,1998-06-25,Group E,Belgium,BEL,Korea Republic,KOR,France-1998,0,0,1,1,Draw,Draw
+292,1998-06-25,Group E,Netherlands,NED,Mexico,MEX,France-1998,0,0,2,2,Draw,Draw
+293,1998-06-25,Group F,Germany,GER,IR Iran,IRN,France-1998,0,0,2,0,Win,Win
+294,1998-06-26,Group H,Japan,JPN,Jamaica,JAM,France-1998,0,0,1,2,Loss,Loss
+295,1998-06-26,Group H,Argentina,ARG,Croatia,CRO,France-1998,0,0,1,0,Win,Win
+296,1998-06-26,Group G,Romania,ROU,Tunisia,TUN,France-1998,0,0,1,1,Draw,Draw
+297,1998-06-26,Group G,Colombia,COL,England,ENG,France-1998,0,0,0,2,Loss,Loss
+298,1998-06-27,Round of 16,Italy,ITA,Norway,NOR,France-1998,0,0,1,0,Win,Win
+299,1998-06-27,Round of 16,Brazil,BRA,Chile,CHI,France-1998,0,0,4,1,Win,Win
+300,1998-06-28,Round of 16,France,FRA,Paraguay,PAR,France-1998,0,0,1,0,Win,Win
+301,1998-06-28,Round of 16,Nigeria,NGA,Denmark,DEN,France-1998,0,0,1,4,Loss,Loss
+302,1998-06-29,Round of 16,Germany,GER,Mexico,MEX,France-1998,0,0,2,1,Win,Win
+303,1998-06-30,Round of 16,Romania,ROU,Croatia,CRO,France-1998,0,0,0,1,Loss,Loss
+304,1998-06-30,Round of 16,Argentina,ARG,England,ENG,France-1998,4,3,2,2,Draw,Win
+305,1998-07-03,Quarter-finals,Italy,ITA,France,FRA,France-1998,3,4,0,0,Draw,Loss
+306,1998-07-03,Quarter-finals,Brazil,BRA,Denmark,DEN,France-1998,0,0,3,2,Win,Win
+307,1998-07-04,Quarter-finals,Netherlands,NED,Argentina,ARG,France-1998,0,0,2,1,Win,Win
+308,1998-07-04,Quarter-finals,Germany,GER,Croatia,CRO,France-1998,0,0,0,3,Loss,Loss
+309,1998-07-07,Semi-finals,Brazil,BRA,Netherlands,NED,France-1998,4,2,1,1,Draw,Win
+310,1998-07-08,Semi-finals,France,FRA,Croatia,CRO,France-1998,0,0,2,1,Win,Win
+311,1998-07-11,Match for third place,Netherlands,NED,Croatia,CRO,France-1998,0,0,1,2,Loss,Loss
+312,1998-07-12,Final,Brazil,BRA,France,FRA,France-1998,0,0,0,3,Loss,Loss
+313,1994-06-17,Group C,Spain,ESP,Korea Republic,KOR,USA-1994,0,0,2,2,Draw,Draw
+314,1994-06-17,Group C,Germany,GER,Bolivia,BOL,USA-1994,0,0,1,0,Win,Win
+315,1994-06-18,Group A,USA,USA,Switzerland,SUI,USA-1994,0,0,1,1,Draw,Draw
+316,1994-06-18,Group E,Italy,ITA,Republic of Ireland,IRL,USA-1994,0,0,0,1,Loss,Loss
+317,1994-06-18,Group A,Colombia,COL,Romania,ROU,USA-1994,0,0,1,3,Loss,Loss
+318,1994-06-19,Group F,Belgium,BEL,Morocco,MAR,USA-1994,0,0,1,0,Win,Win
+319,1994-06-19,Group E,Norway,NOR,Mexico,MEX,USA-1994,0,0,1,0,Win,Win
+320,1994-06-19,Group B,Cameroon,CMR,Sweden,SWE,USA-1994,0,0,2,2,Draw,Draw
+321,1994-06-20,Group F,Netherlands,NED,Saudi Arabia,KSA,USA-1994,0,0,2,1,Win,Win
+322,1994-06-20,Group B,Brazil,BRA,Russia,RUS,USA-1994,0,0,2,0,Win,Win
+323,1994-06-21,Group D,Argentina,ARG,Greece,GRE,USA-1994,0,0,4,0,Win,Win
+324,1994-06-21,Group D,Nigeria,NGA,Bulgaria,BUL,USA-1994,0,0,3,0,Win,Win
+325,1994-06-21,Group C,Germany,GER,Spain,ESP,USA-1994,0,0,1,1,Draw,Draw
+326,1994-06-22,Group A,Romania,ROU,Switzerland,SUI,USA-1994,0,0,1,4,Loss,Loss
+327,1994-06-22,Group A,USA,USA,Colombia,COL,USA-1994,0,0,2,1,Win,Win
+328,1994-06-23,Group E,Italy,ITA,Norway,NOR,USA-1994,0,0,1,0,Win,Win
+329,1994-06-23,Group C,Korea Republic,KOR,Bolivia,BOL,USA-1994,0,0,0,0,Draw,Draw
+330,1994-06-24,Group E,Mexico,MEX,Republic of Ireland,IRL,USA-1994,0,0,2,1,Win,Win
+331,1994-06-24,Group B,Sweden,SWE,Russia,RUS,USA-1994,0,0,3,1,Win,Win
+332,1994-06-24,Group B,Brazil,BRA,Cameroon,CMR,USA-1994,0,0,3,0,Win,Win
+333,1994-06-25,Group F,Belgium,BEL,Netherlands,NED,USA-1994,0,0,1,0,Win,Win
+334,1994-06-25,Group F,Saudi Arabia,KSA,Morocco,MAR,USA-1994,0,0,2,1,Win,Win
+335,1994-06-25,Group D,Argentina,ARG,Nigeria,NGA,USA-1994,0,0,2,1,Win,Win
+336,1994-06-26,Group D,Bulgaria,BUL,Greece,GRE,USA-1994,0,0,4,0,Win,Win
+337,1994-06-26,Group A,USA,USA,Romania,ROU,USA-1994,0,0,0,1,Loss,Loss
+338,1994-06-26,Group A,Switzerland,SUI,Colombia,COL,USA-1994,0,0,0,2,Loss,Loss
+339,1994-06-27,Group C,Germany,GER,Korea Republic,KOR,USA-1994,0,0,3,2,Win,Win
+340,1994-06-27,Group C,Bolivia,BOL,Spain,ESP,USA-1994,0,0,1,3,Loss,Loss
+341,1994-06-28,Group E,Republic of Ireland,IRL,Norway,NOR,USA-1994,0,0,0,0,Draw,Draw
+342,1994-06-28,Group B,Brazil,BRA,Sweden,SWE,USA-1994,0,0,1,1,Draw,Draw
+343,1994-06-28,Group E,Italy,ITA,Mexico,MEX,USA-1994,0,0,1,1,Draw,Draw
+344,1994-06-28,Group B,Russia,RUS,Cameroon,CMR,USA-1994,0,0,6,1,Win,Win
+345,1994-06-29,Group F,Morocco,MAR,Netherlands,NED,USA-1994,0,0,1,2,Loss,Loss
+346,1994-06-29,Group F,Belgium,BEL,Saudi Arabia,KSA,USA-1994,0,0,0,1,Loss,Loss
+347,1994-06-30,Group D,Greece,GRE,Nigeria,NGA,USA-1994,0,0,0,2,Loss,Loss
+348,1994-06-30,Group D,Argentina,ARG,Bulgaria,BUL,USA-1994,0,0,0,2,Loss,Loss
+349,1994-07-02,Round of 16,Germany,GER,Belgium,BEL,USA-1994,0,0,3,2,Win,Win
+350,1994-07-02,Round of 16,Spain,ESP,Switzerland,SUI,USA-1994,0,0,3,0,Win,Win
+351,1994-07-03,Round of 16,Saudi Arabia,KSA,Sweden,SWE,USA-1994,0,0,1,3,Loss,Loss
+352,1994-07-03,Round of 16,Romania,ROU,Argentina,ARG,USA-1994,0,0,3,2,Win,Win
+353,1994-07-04,Round of 16,Netherlands,NED,Republic of Ireland,IRL,USA-1994,0,0,2,0,Win,Win
+354,1994-07-04,Round of 16,Brazil,BRA,USA,USA,USA-1994,0,0,1,0,Win,Win
+355,1994-07-05,Round of 16,Nigeria,NGA,Italy,ITA,USA-1994,0,0,1,2,Loss,Loss
+356,1994-07-05,Round of 16,Mexico,MEX,Bulgaria,BUL,USA-1994,1,3,1,1,Draw,Loss
+357,1994-07-09,Quarter-finals,Italy,ITA,Spain,ESP,USA-1994,0,0,2,1,Win,Win
+358,1994-07-09,Quarter-finals,Netherlands,NED,Brazil,BRA,USA-1994,0,0,2,3,Loss,Loss
+359,1994-07-10,Quarter-finals,Bulgaria,BUL,Germany,GER,USA-1994,0,0,2,1,Win,Win
+360,1994-07-10,Quarter-finals,Romania,ROU,Sweden,SWE,USA-1994,4,5,2,2,Draw,Loss
+361,1994-07-13,Semi-finals,Bulgaria,BUL,Italy,ITA,USA-1994,0,0,1,2,Loss,Loss
+362,1994-07-13,Semi-finals,Sweden,SWE,Brazil,BRA,USA-1994,0,0,0,1,Loss,Loss
+363,1994-07-16,Match for third place,Sweden,SWE,Bulgaria,BUL,USA-1994,0,0,4,0,Win,Win
+364,1994-07-17,Final,Brazil,BRA,Italy,ITA,USA-1994,3,2,0,0,Draw,Win
